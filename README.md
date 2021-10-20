@@ -5,4 +5,4 @@ Once the payment is done and invoice will be generated and email will be sent to
 On any page / email, only basic information is needed.
 Create your own temporary / sandbox / testing accounts with 3rd party for integrations.
 
-**TECHNOGY USED:** HTML, CSS, Bootstrap
+**TECHNOLOGY USED:** HTML, CSS, Bootstrap
